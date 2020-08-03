@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "clients": [
+    {
+      "_id": "5f27dcf13ae171864f152509",
+      "isActive": true,
+      "name": "Noemi Benton",
+      "gender": "female",
+      "email": "noemibenton@golistic.com",
+      "dob": "5/10/2020"
+    },
+    {
+      "_id": "5f27dcf13c7f89fe70d04bbe",
+      "isActive": true,
+      "name": "Robin Hunter",
+      "gender": "female",
+      "email": "robinhunter@golistic.com",
+      "dob": "3/11/2020"
+    },
+    {
+      "_id": "5f27dcf11a87da9b1d206bc7",
+      "isActive": false,
+      "name": "Alicia Gutierrez",
+      "gender": "female",
+      "email": "aliciagutierrez@golistic.com",
+      "dob": "9/15/2019"
+    },
+    {
+      "_id": "5f27dcf1cad172a41e99d9fe",
+      "isActive": false,
+      "name": "Lidia Weaver",
+      "gender": "female",
+      "email": "lidiaweaver@golistic.com",
+      "dob": "3/8/2020"
+    },
+    {
+      "_id": "5f27dcf12eb7d3920480f72e",
+      "isActive": false,
+      "name": "Rosetta Lane",
+      "gender": "female",
+      "email": "rosettalane@golistic.com",
+      "dob": "6/21/2020"
+    },
+    {
+      "_id": "5f27dcf1c40c30bd802da99d",
+      "isActive": false,
+      "name": "Key Fisher",
+      "gender": "male",
+      "email": "keyfisher@golistic.com",
+      "dob": "6/23/2020"
+    },
+    {
+      "_id": "5f27dcf124852bd2482d8dbe",
+      "isActive": false,
+      "name": "Virgie Holman",
+      "gender": "female",
+      "email": "virgieholman@golistic.com",
+      "dob": "1/9/2020"
+    }
+  ]
 }
