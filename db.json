@@ -1,4 +1,406 @@
 {
+  "financial": [
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": false,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": true
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    },
+    {
+      "IsInsured": true,
+      "OwnHouse": false
+    }
+  ],
   "clients": [
     {
       "_id": "5f27dcf13ae171864f152509",
