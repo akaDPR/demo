@@ -1,8 +1,5 @@
 {
   "financial": [
-    
-    
-    
     {
       "IsInsured": true,
       "OwnHouse": true
@@ -30,7 +27,7 @@
     {
       "IsInsured": true,
       "OwnHouse": true
-    },
+    }
   ],
   "clients": [
     {
