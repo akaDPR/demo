@@ -44,11 +44,11 @@
       "gender": "female",
       "email": "noemibenton@golistic.com",
       "dob": "5/10/2020",
-      "finance": {
+      "finance": [{
         "id": "7",
         "IsInsured": true,
         "OwnHouse": true
-      }
+      }]
     },
     {
       "id": "2",
