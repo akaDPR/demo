@@ -29,27 +29,67 @@
     {
       "id": "3",
       "IsInsured": true,
-      "OwnHouse": false
+      "OwnHouse": false,
+      "client": {
+        "id": "7",
+        "isActive": false,
+        "name": "Virgie Holman",
+        "gender": "female",
+        "email": "virgieholman@golistic.com",
+        "dob": "1/9/2020"
+      }
     },
     {
       "id": "4",
       "IsInsured": true,
-      "OwnHouse": false
+      "OwnHouse": false,
+      "client": {
+        "id": "2",
+        "isActive": true,
+        "name": "Robin Hunter",
+        "gender": "female",
+        "email": "robinhunter@golistic.com",
+        "dob": "3/11/2020"
+      }
     },
     {
       "id": "5",
       "IsInsured": true,
-      "OwnHouse": false
+      "OwnHouse": false,
+      "client": {
+        "id": "3",
+        "isActive": false,
+        "name": "Alicia Gutierrez",
+        "gender": "female",
+        "email": "aliciagutierrez@golistic.com",
+        "dob": "9/15/2019"
+      }
     },
     {
       "id": "6",
       "IsInsured": true,
-      "OwnHouse": true
+      "OwnHouse": true,
+      "client": {
+        "id": "4",
+        "isActive": false,
+        "name": "Lidia Weaver",
+        "gender": "female",
+        "email": "lidiaweaver@golistic.com",
+        "dob": "3/8/2020"
+      }
     },
     {
       "id": "7",
       "IsInsured": true,
-      "OwnHouse": true
+      "OwnHouse": true,
+      "client": {
+        "id": "1",
+        "isActive": true,
+        "name": "Noemi Benton",
+        "gender": "female",
+        "email": "noemibenton@golistic.com",
+        "dob": "5/10/2020"
+      }
     }
   ],
   "clients": [
