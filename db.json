@@ -6,7 +6,7 @@
       "OwnHouse": true,
       "client": {
         "id": "6",
-        "isActive": false,
+        "isActive": true,
         "name": "Key Fisher",
         "gender": "male",
         "email": "keyfisher@golistic.com",
