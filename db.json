@@ -34,11 +34,6 @@
       "id": "7",
       "IsInsured": true,
       "OwnHouse": true
-    },
-    {
-      "id": "8",
-      "IsInsured": true,
-      "OwnHouse": true
     }
   ],
   "clients": [
@@ -48,7 +43,12 @@
       "name": "Noemi Benton",
       "gender": "female",
       "email": "noemibenton@golistic.com",
-      "dob": "5/10/2020"
+      "dob": "5/10/2020",
+      "finance": {
+        "id": "7",
+        "IsInsured": true,
+        "OwnHouse": true
+      }
     },
     {
       "id": "2",
