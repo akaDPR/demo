@@ -1,44 +1,44 @@
 {
   "financial": [
     {
-      "_id": "1",
+      "id": "1",
       "IsInsured": true,
       "OwnHouse": true
     },
     {
-      "_id": "2",
+      "id": "2",
       "IsInsured": true,
       "OwnHouse": true
     },
     {
-      "_id": "3",
+      "id": "3",
       "IsInsured": true,
       "OwnHouse": false
     },
     {
-      "_id": "4",
+      "id": "4",
       "IsInsured": true,
       "OwnHouse": false
     },
     {
-      "_id": "5",
+      "id": "5",
       "IsInsured": true,
       "OwnHouse": false
     },
     {
-      "_id": "6",
+      "id": "6",
       "IsInsured": true,
       "OwnHouse": true
     },
     {
-      "_id": "7",
+      "id": "7",
       "IsInsured": true,
       "OwnHouse": true
     }
   ],
   "clients": [
     {
-      "_id": "5f27dcf13ae171864f152509",
+      "id": "1",
       "isActive": true,
       "name": "Noemi Benton",
       "gender": "female",
@@ -46,7 +46,7 @@
       "dob": "5/10/2020"
     },
     {
-      "_id": "5f27dcf13c7f89fe70d04bbe",
+      "id": "2",
       "isActive": true,
       "name": "Robin Hunter",
       "gender": "female",
@@ -54,7 +54,7 @@
       "dob": "3/11/2020"
     },
     {
-      "_id": "5f27dcf11a87da9b1d206bc7",
+      "id": "3",
       "isActive": false,
       "name": "Alicia Gutierrez",
       "gender": "female",
@@ -62,7 +62,7 @@
       "dob": "9/15/2019"
     },
     {
-      "_id": "5f27dcf1cad172a41e99d9fe",
+      "id": "4",
       "isActive": false,
       "name": "Lidia Weaver",
       "gender": "female",
@@ -70,7 +70,7 @@
       "dob": "3/8/2020"
     },
     {
-      "_id": "5f27dcf12eb7d3920480f72e",
+      "id": "5",
       "isActive": false,
       "name": "Rosetta Lane",
       "gender": "female",
@@ -78,7 +78,7 @@
       "dob": "6/21/2020"
     },
     {
-      "_id": "5f27dcf1c40c30bd802da99d",
+      "id": "6",
       "isActive": false,
       "name": "Key Fisher",
       "gender": "male",
@@ -86,7 +86,7 @@
       "dob": "6/23/2020"
     },
     {
-      "_id": "5f27dcf124852bd2482d8dbe",
+      "id": "7",
       "isActive": false,
       "name": "Virgie Holman",
       "gender": "female",
