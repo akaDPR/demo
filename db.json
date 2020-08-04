@@ -44,11 +44,11 @@
       "gender": "female",
       "email": "noemibenton@golistic.com",
       "dob": "5/10/2020",
-      "finances": [{
+      "finance": {
         "id": "7",
         "IsInsured": true,
         "OwnHouse": true
-      }]
+      }
     },
     {
       "id": "2",
@@ -56,7 +56,12 @@
       "name": "Robin Hunter",
       "gender": "female",
       "email": "robinhunter@golistic.com",
-      "dob": "3/11/2020"
+      "dob": "3/11/2020",
+      "finance": {
+        "id": "7",
+        "IsInsured": true,
+        "OwnHouse": true
+      }
     },
     {
       "id": "3",
@@ -64,7 +69,12 @@
       "name": "Alicia Gutierrez",
       "gender": "female",
       "email": "aliciagutierrez@golistic.com",
-      "dob": "9/15/2019"
+      "dob": "9/15/2019",
+      "finance": {
+        "id": "2",
+        "IsInsured": true,
+        "OwnHouse": true
+      }
     },
     {
       "id": "4",
@@ -72,7 +82,12 @@
       "name": "Lidia Weaver",
       "gender": "female",
       "email": "lidiaweaver@golistic.com",
-      "dob": "3/8/2020"
+      "dob": "3/8/2020",
+      "finance": {
+        "id": "6",
+        "IsInsured": true,
+        "OwnHouse": true
+      }
     },
     {
       "id": "5",
@@ -80,7 +95,12 @@
       "name": "Rosetta Lane",
       "gender": "female",
       "email": "rosettalane@golistic.com",
-      "dob": "6/21/2020"
+      "dob": "6/21/2020",
+      "finance": {
+        "id": "2",
+        "IsInsured": true,
+        "OwnHouse": true
+      }
     },
     {
       "id": "6",
@@ -88,7 +108,12 @@
       "name": "Key Fisher",
       "gender": "male",
       "email": "keyfisher@golistic.com",
-      "dob": "6/23/2020"
+      "dob": "6/23/2020",
+      "finance": {
+        "id": "1",
+        "IsInsured": true,
+        "OwnHouse": true
+      }
     },
     {
       "id": "7",
@@ -96,7 +121,12 @@
       "name": "Virgie Holman",
       "gender": "female",
       "email": "virgieholman@golistic.com",
-      "dob": "1/9/2020"
+      "dob": "1/9/2020",
+      "finance": {
+        "id": "3",
+        "IsInsured": true,
+        "OwnHouse": false
+      }
     }
   ]
 }
