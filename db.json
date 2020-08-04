@@ -3,12 +3,28 @@
     {
       "id": "1",
       "IsInsured": true,
-      "OwnHouse": true
+      "OwnHouse": true,
+      "client": {
+        "id": "6",
+        "isActive": false,
+        "name": "Key Fisher",
+        "gender": "male",
+        "email": "keyfisher@golistic.com",
+        "dob": "6/23/2020"
+      }
     },
     {
       "id": "2",
       "IsInsured": true,
-      "OwnHouse": true
+      "OwnHouse": true,
+      "client": {
+        "id": "5",
+        "isActive": false,
+        "name": "Rosetta Lane",
+        "gender": "female",
+        "email": "rosettalane@golistic.com",
+        "dob": "6/21/2020"
+      }
     },
     {
       "id": "3",
@@ -61,7 +77,7 @@
       "dob": "3/11/2020",
       "finances": [
         {
-          "id": "7",
+          "id": "4",
           "IsInsured": true,
           "OwnHouse": true
         }
@@ -76,7 +92,7 @@
       "dob": "9/15/2019",
       "finances": [
         {
-          "id": "2",
+          "id": "5",
           "IsInsured": true,
           "OwnHouse": true
         }
