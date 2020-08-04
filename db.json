@@ -44,11 +44,13 @@
       "gender": "female",
       "email": "noemibenton@golistic.com",
       "dob": "5/10/2020",
-      "finances": {
-        "id": "7",
-        "IsInsured": true,
-        "OwnHouse": true
-      }
+      "finances": [
+        {
+          "id": "7",
+          "IsInsured": true,
+          "OwnHouse": true
+        }
+      ]
     },
     {
       "id": "2",
@@ -57,11 +59,13 @@
       "gender": "female",
       "email": "robinhunter@golistic.com",
       "dob": "3/11/2020",
-      "finances": {
-        "id": "7",
-        "IsInsured": true,
-        "OwnHouse": true
-      }
+      "finances": [
+        {
+          "id": "7",
+          "IsInsured": true,
+          "OwnHouse": true
+        }
+      ]
     },
     {
       "id": "3",
@@ -70,11 +74,13 @@
       "gender": "female",
       "email": "aliciagutierrez@golistic.com",
       "dob": "9/15/2019",
-      "finances": {
-        "id": "2",
-        "IsInsured": true,
-        "OwnHouse": true
-      }
+      "finances": [
+        {
+          "id": "2",
+          "IsInsured": true,
+          "OwnHouse": true
+        }
+      ]
     },
     {
       "id": "4",
@@ -83,11 +89,13 @@
       "gender": "female",
       "email": "lidiaweaver@golistic.com",
       "dob": "3/8/2020",
-      "finances": {
-        "id": "6",
-        "IsInsured": true,
-        "OwnHouse": true
-      }
+      "finances": [
+        {
+          "id": "6",
+          "IsInsured": true,
+          "OwnHouse": true
+        }
+      ]
     },
     {
       "id": "5",
@@ -96,11 +104,13 @@
       "gender": "female",
       "email": "rosettalane@golistic.com",
       "dob": "6/21/2020",
-      "finances": {
-        "id": "2",
-        "IsInsured": true,
-        "OwnHouse": true
-      }
+      "finances": [
+        {
+          "id": "2",
+          "IsInsured": true,
+          "OwnHouse": true
+        }
+      ]
     },
     {
       "id": "6",
@@ -109,11 +119,13 @@
       "gender": "male",
       "email": "keyfisher@golistic.com",
       "dob": "6/23/2020",
-      "finances": {
-        "id": "1",
-        "IsInsured": true,
-        "OwnHouse": true
-      }
+      "finances": [
+        {
+          "id": "1",
+          "IsInsured": true,
+          "OwnHouse": true
+        }
+      ]
     },
     {
       "id": "7",
@@ -122,11 +134,13 @@
       "gender": "female",
       "email": "virgieholman@golistic.com",
       "dob": "1/9/2020",
-      "finances": {
-        "id": "3",
-        "IsInsured": true,
-        "OwnHouse": false
-      }
+      "finances": [
+        {
+          "id": "3",
+          "IsInsured": true,
+          "OwnHouse": false
+        }
+      ]
     }
   ]
 }
